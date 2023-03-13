@@ -34,7 +34,7 @@ I characterize myself by my design, creativity, teamwork, adaptability to change
 
 ## 💪  Stacks I can work with  🦾
 
-**Frontend:** React and TailwindCSS
+**Frontend:** React, MaterialUI and TailwindCSS.
 
 **Backend:** MongoDB, Node, Express, MySQL
 
