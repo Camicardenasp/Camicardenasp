@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Camilo Cárdenas Poveda! 👋
 
 ## 🚀 About me
-👨🏻‍💻  I am a Fullstack developer with advanced English. Interest in web development, sustainability, finance and data science. I am a cheerful, responsible and proactive person.
+🧑🏻‍🏫 👨🏻‍💻  I am a Fullstack developer with advanced English. Interest in web development, sustainability, finance and data science. I am a cheerful, responsible and proactive person.
 
 🌱  I am currently learning PowerBI and Java.
 
@@ -32,11 +32,11 @@ Management of the MERN Stack (Mongo, Express, React and Node) as well as Python,
 I characterize myself by my design, creativity, teamwork, adaptability to change, leadership, teaching and project management skills focused on achieving results.
 
 
-## 💪 🦾 Stack I can work with
+## 💪  Stacks I can work with  🦾
 
 **Frontend:** React and TailwindCSS
 
 **Backend:** MongoDB, Node, Express, MySQL
 
 ## ⚡ Fun fact: 
-- I'm a doble Major in Business Administration (B.B.A.) & Music (B.A. in Mus.) with Emphasis in Composition for Film & Media from Universidad de los Andes, Colombia 🤓 🧑🏻‍🏫
+- I'm a doble Major in Business Administration (B.B.A.) & Music (B.A. in Mus.) with Emphasis in Composition for Film & Media from Universidad de los Andes, Colombia 🧑🏻‍🏫 🤓 
