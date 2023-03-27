@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there, I'm Camilo Cárdenas Poveda! 👋<h1>
 
-# Hi there, I'm Camilo Cárdenas Poveda! 👋
+<p align="center"><img src="https://github.com/Camicardenasp/NEW_Portfolio/blob/main/src/assets/img/logo.svg" width="300"></a><p>
 
-## 🚀 About me
+ ## 🚀 About me
 🧑🏻‍🏫 👨🏻‍💻  I am a Fullstack developer with advanced English. Interest in web development, sustainability, finance and data science. I am a cheerful, responsible and proactive person.
 
 🌱  I am currently learning PowerBI and Java.
